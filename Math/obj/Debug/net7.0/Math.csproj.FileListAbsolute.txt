@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\bin\Debug\net7.0\Math.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\bin\Debug\net7.0\Math.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\bin\Debug\net7.0\Math.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\bin\Debug\net7.0\Math.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\bin\Debug\net7.0\Math.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\obj\Debug\net7.0\Math.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\obj\Debug\net7.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\obj\Debug\net7.0\Math.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\obj\Debug\net7.0\Math.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\obj\Debug\net7.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\obj\Debug\net7.0\Math.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\obj\Debug\net7.0\refint\Math.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\obj\Debug\net7.0\Math.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\obj\Debug\net7.0\Math.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Math\obj\Debug\net7.0\ref\Math.dll

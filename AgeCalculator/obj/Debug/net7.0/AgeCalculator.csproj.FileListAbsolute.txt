@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\bin\Debug\net7.0\AgeCalculator.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\bin\Debug\net7.0\AgeCalculator.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\bin\Debug\net7.0\AgeCalculator.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\bin\Debug\net7.0\AgeCalculator.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\bin\Debug\net7.0\AgeCalculator.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\obj\Debug\net7.0\AgeCalculator.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\obj\Debug\net7.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\obj\Debug\net7.0\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\obj\Debug\net7.0\AgeCalculator.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\obj\Debug\net7.0\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\obj\Debug\net7.0\AgeCalculator.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\obj\Debug\net7.0\refint\AgeCalculator.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\obj\Debug\net7.0\AgeCalculator.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\obj\Debug\net7.0\AgeCalculator.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeCalculator\obj\Debug\net7.0\ref\AgeCalculator.dll

@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\bin\Debug\net7.0\ArithmeticAvarage.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\bin\Debug\net7.0\ArithmeticAvarage.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\bin\Debug\net7.0\ArithmeticAvarage.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\bin\Debug\net7.0\ArithmeticAvarage.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\bin\Debug\net7.0\ArithmeticAvarage.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\obj\Debug\net7.0\ArithmeticAvarage.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\obj\Debug\net7.0\ArithmeticAvarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\obj\Debug\net7.0\ArithmeticAvarage.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\obj\Debug\net7.0\ArithmeticAvarage.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\obj\Debug\net7.0\ArithmeticAvarage.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\obj\Debug\net7.0\ArithmeticAvarage.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\obj\Debug\net7.0\refint\ArithmeticAvarage.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\obj\Debug\net7.0\ArithmeticAvarage.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\obj\Debug\net7.0\ArithmeticAvarage.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\ArithmeticAvarage\obj\Debug\net7.0\ref\ArithmeticAvarage.dll
