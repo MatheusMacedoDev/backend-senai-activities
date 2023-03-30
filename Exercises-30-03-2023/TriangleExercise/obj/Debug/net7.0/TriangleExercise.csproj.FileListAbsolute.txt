@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\bin\Debug\net7.0\TriangleExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\bin\Debug\net7.0\TriangleExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\bin\Debug\net7.0\TriangleExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\bin\Debug\net7.0\TriangleExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\bin\Debug\net7.0\TriangleExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\obj\Debug\net7.0\TriangleExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\obj\Debug\net7.0\TriangleExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\obj\Debug\net7.0\TriangleExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\obj\Debug\net7.0\TriangleExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\obj\Debug\net7.0\TriangleExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\obj\Debug\net7.0\TriangleExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\obj\Debug\net7.0\refint\TriangleExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\obj\Debug\net7.0\TriangleExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\obj\Debug\net7.0\TriangleExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\TriangleExercise\obj\Debug\net7.0\ref\TriangleExercise.dll

@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\bin\Debug\net7.0\SoccerExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\bin\Debug\net7.0\SoccerExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\bin\Debug\net7.0\SoccerExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\bin\Debug\net7.0\SoccerExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\bin\Debug\net7.0\SoccerExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\obj\Debug\net7.0\SoccerExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\obj\Debug\net7.0\SoccerExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\obj\Debug\net7.0\SoccerExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\obj\Debug\net7.0\SoccerExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\obj\Debug\net7.0\SoccerExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\obj\Debug\net7.0\SoccerExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\obj\Debug\net7.0\refint\SoccerExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\obj\Debug\net7.0\SoccerExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\obj\Debug\net7.0\SoccerExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SoccerExercise\obj\Debug\net7.0\ref\SoccerExercise.dll

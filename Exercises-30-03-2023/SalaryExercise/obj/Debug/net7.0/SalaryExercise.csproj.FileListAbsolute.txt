@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\bin\Debug\net7.0\SalaryExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\bin\Debug\net7.0\SalaryExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\bin\Debug\net7.0\SalaryExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\bin\Debug\net7.0\SalaryExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\bin\Debug\net7.0\SalaryExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\obj\Debug\net7.0\SalaryExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\obj\Debug\net7.0\SalaryExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\obj\Debug\net7.0\SalaryExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\obj\Debug\net7.0\SalaryExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\obj\Debug\net7.0\SalaryExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\obj\Debug\net7.0\SalaryExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\obj\Debug\net7.0\refint\SalaryExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\obj\Debug\net7.0\SalaryExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\obj\Debug\net7.0\SalaryExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\SalaryExercise\obj\Debug\net7.0\ref\SalaryExercise.dll

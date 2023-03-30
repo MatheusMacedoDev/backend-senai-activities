@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\bin\Debug\net7.0\StudentExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\bin\Debug\net7.0\StudentExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\bin\Debug\net7.0\StudentExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\bin\Debug\net7.0\StudentExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\bin\Debug\net7.0\StudentExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\obj\Debug\net7.0\StudentExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\obj\Debug\net7.0\StudentExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\obj\Debug\net7.0\StudentExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\obj\Debug\net7.0\StudentExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\obj\Debug\net7.0\StudentExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\obj\Debug\net7.0\StudentExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\obj\Debug\net7.0\refint\StudentExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\obj\Debug\net7.0\StudentExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\obj\Debug\net7.0\StudentExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-30-03-2023\StudentExercise\obj\Debug\net7.0\ref\StudentExercise.dll
