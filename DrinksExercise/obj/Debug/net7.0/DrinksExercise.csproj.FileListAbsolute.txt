@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\bin\Debug\net7.0\DrinksExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\bin\Debug\net7.0\DrinksExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\bin\Debug\net7.0\DrinksExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\bin\Debug\net7.0\DrinksExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\bin\Debug\net7.0\DrinksExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\obj\Debug\net7.0\DrinksExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\obj\Debug\net7.0\DrinksExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\obj\Debug\net7.0\DrinksExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\obj\Debug\net7.0\DrinksExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\obj\Debug\net7.0\DrinksExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\obj\Debug\net7.0\DrinksExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\obj\Debug\net7.0\refint\DrinksExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\obj\Debug\net7.0\DrinksExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\obj\Debug\net7.0\DrinksExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\DrinksExercise\obj\Debug\net7.0\ref\DrinksExercise.dll

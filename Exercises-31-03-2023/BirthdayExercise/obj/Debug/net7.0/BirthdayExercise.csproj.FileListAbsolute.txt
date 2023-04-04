@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\bin\Debug\net7.0\BirthdayExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\bin\Debug\net7.0\BirthdayExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\bin\Debug\net7.0\BirthdayExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\bin\Debug\net7.0\BirthdayExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\bin\Debug\net7.0\BirthdayExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\obj\Debug\net7.0\BirthdayExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\obj\Debug\net7.0\BirthdayExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\obj\Debug\net7.0\BirthdayExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\obj\Debug\net7.0\BirthdayExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\obj\Debug\net7.0\BirthdayExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\obj\Debug\net7.0\BirthdayExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\obj\Debug\net7.0\refint\BirthdayExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\obj\Debug\net7.0\BirthdayExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\obj\Debug\net7.0\BirthdayExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\BirthdayExercise\obj\Debug\net7.0\ref\BirthdayExercise.dll

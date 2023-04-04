@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\bin\Debug\net7.0\VowelOrConsonantExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\bin\Debug\net7.0\VowelOrConsonantExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\bin\Debug\net7.0\VowelOrConsonantExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\bin\Debug\net7.0\VowelOrConsonantExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\bin\Debug\net7.0\VowelOrConsonantExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\obj\Debug\net7.0\VowelOrConsonantExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\obj\Debug\net7.0\VowelOrConsonantExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\obj\Debug\net7.0\VowelOrConsonantExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\obj\Debug\net7.0\VowelOrConsonantExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\obj\Debug\net7.0\VowelOrConsonantExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\obj\Debug\net7.0\VowelOrConsonantExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\obj\Debug\net7.0\refint\VowelOrConsonantExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\obj\Debug\net7.0\VowelOrConsonantExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\obj\Debug\net7.0\VowelOrConsonantExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\VowelOrConsonantExercise\obj\Debug\net7.0\ref\VowelOrConsonantExercise.dll

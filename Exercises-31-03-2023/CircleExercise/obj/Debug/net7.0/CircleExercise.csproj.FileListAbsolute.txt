@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\bin\Debug\net7.0\CircleExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\bin\Debug\net7.0\CircleExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\bin\Debug\net7.0\CircleExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\bin\Debug\net7.0\CircleExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\bin\Debug\net7.0\CircleExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\obj\Debug\net7.0\CircleExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\obj\Debug\net7.0\CircleExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\obj\Debug\net7.0\CircleExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\obj\Debug\net7.0\CircleExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\obj\Debug\net7.0\CircleExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\obj\Debug\net7.0\CircleExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\obj\Debug\net7.0\refint\CircleExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\obj\Debug\net7.0\CircleExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\obj\Debug\net7.0\CircleExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CircleExercise\obj\Debug\net7.0\ref\CircleExercise.dll

@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\bin\Debug\net7.0\CrimeExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\bin\Debug\net7.0\CrimeExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\bin\Debug\net7.0\CrimeExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\bin\Debug\net7.0\CrimeExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\bin\Debug\net7.0\CrimeExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\obj\Debug\net7.0\CrimeExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\obj\Debug\net7.0\CrimeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\obj\Debug\net7.0\CrimeExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\obj\Debug\net7.0\CrimeExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\obj\Debug\net7.0\CrimeExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\obj\Debug\net7.0\CrimeExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\obj\Debug\net7.0\refint\CrimeExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\obj\Debug\net7.0\CrimeExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\obj\Debug\net7.0\CrimeExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\CrimeExercise\obj\Debug\net7.0\ref\CrimeExercise.dll

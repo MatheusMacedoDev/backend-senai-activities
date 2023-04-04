@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\bin\Debug\net7.0\SmallerAndBiggerNumberExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\bin\Debug\net7.0\SmallerAndBiggerNumberExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\bin\Debug\net7.0\SmallerAndBiggerNumberExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\bin\Debug\net7.0\SmallerAndBiggerNumberExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\bin\Debug\net7.0\SmallerAndBiggerNumberExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\obj\Debug\net7.0\SmallerAndBiggerNumberExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\obj\Debug\net7.0\SmallerAndBiggerNumberExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\obj\Debug\net7.0\SmallerAndBiggerNumberExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\obj\Debug\net7.0\SmallerAndBiggerNumberExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\obj\Debug\net7.0\SmallerAndBiggerNumberExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\obj\Debug\net7.0\SmallerAndBiggerNumberExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\obj\Debug\net7.0\refint\SmallerAndBiggerNumberExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\obj\Debug\net7.0\SmallerAndBiggerNumberExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\obj\Debug\net7.0\SmallerAndBiggerNumberExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-31-03-2023\SmallerAndBiggerNumberExercise\obj\Debug\net7.0\ref\SmallerAndBiggerNumberExercise.dll
