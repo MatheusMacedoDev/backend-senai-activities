@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\bin\Debug\net7.0\RegistrationExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\bin\Debug\net7.0\RegistrationExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\bin\Debug\net7.0\RegistrationExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\bin\Debug\net7.0\RegistrationExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\bin\Debug\net7.0\RegistrationExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\obj\Debug\net7.0\RegistrationExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\obj\Debug\net7.0\RegistrationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\obj\Debug\net7.0\RegistrationExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\obj\Debug\net7.0\RegistrationExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\obj\Debug\net7.0\RegistrationExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\obj\Debug\net7.0\RegistrationExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\obj\Debug\net7.0\refint\RegistrationExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\obj\Debug\net7.0\RegistrationExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\obj\Debug\net7.0\RegistrationExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationExercise\obj\Debug\net7.0\ref\RegistrationExercise.dll
