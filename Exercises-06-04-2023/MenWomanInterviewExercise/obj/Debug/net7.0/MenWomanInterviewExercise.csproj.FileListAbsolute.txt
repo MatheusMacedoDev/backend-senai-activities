@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\bin\Debug\net7.0\MenWomanInterviewExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\bin\Debug\net7.0\MenWomanInterviewExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\bin\Debug\net7.0\MenWomanInterviewExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\bin\Debug\net7.0\MenWomanInterviewExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\bin\Debug\net7.0\MenWomanInterviewExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\obj\Debug\net7.0\MenWomanInterviewExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\obj\Debug\net7.0\MenWomanInterviewExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\obj\Debug\net7.0\MenWomanInterviewExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\obj\Debug\net7.0\MenWomanInterviewExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\obj\Debug\net7.0\MenWomanInterviewExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\obj\Debug\net7.0\MenWomanInterviewExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\obj\Debug\net7.0\refint\MenWomanInterviewExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\obj\Debug\net7.0\MenWomanInterviewExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\obj\Debug\net7.0\MenWomanInterviewExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\MenWomanInterviewExercise\obj\Debug\net7.0\ref\MenWomanInterviewExercise.dll

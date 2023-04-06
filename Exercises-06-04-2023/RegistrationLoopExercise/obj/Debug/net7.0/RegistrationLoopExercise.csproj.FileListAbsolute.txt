@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\bin\Debug\net7.0\RegistrationLoopExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\bin\Debug\net7.0\RegistrationLoopExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\bin\Debug\net7.0\RegistrationLoopExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\bin\Debug\net7.0\RegistrationLoopExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\bin\Debug\net7.0\RegistrationLoopExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\obj\Debug\net7.0\RegistrationLoopExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\obj\Debug\net7.0\RegistrationLoopExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\obj\Debug\net7.0\RegistrationLoopExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\obj\Debug\net7.0\RegistrationLoopExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\obj\Debug\net7.0\RegistrationLoopExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\obj\Debug\net7.0\RegistrationLoopExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\obj\Debug\net7.0\refint\RegistrationLoopExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\obj\Debug\net7.0\RegistrationLoopExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\obj\Debug\net7.0\RegistrationLoopExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\RegistrationLoopExercise\obj\Debug\net7.0\ref\RegistrationLoopExercise.dll

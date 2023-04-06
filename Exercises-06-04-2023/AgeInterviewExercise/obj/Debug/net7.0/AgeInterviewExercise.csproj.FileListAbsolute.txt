@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\bin\Debug\net7.0\AgeInterviewExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\bin\Debug\net7.0\AgeInterviewExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\bin\Debug\net7.0\AgeInterviewExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\bin\Debug\net7.0\AgeInterviewExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\bin\Debug\net7.0\AgeInterviewExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\obj\Debug\net7.0\AgeInterviewExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\obj\Debug\net7.0\AgeInterviewExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\obj\Debug\net7.0\AgeInterviewExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\obj\Debug\net7.0\AgeInterviewExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\obj\Debug\net7.0\AgeInterviewExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\obj\Debug\net7.0\AgeInterviewExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\obj\Debug\net7.0\refint\AgeInterviewExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\obj\Debug\net7.0\AgeInterviewExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\obj\Debug\net7.0\AgeInterviewExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\AgeInterviewExercise\obj\Debug\net7.0\ref\AgeInterviewExercise.dll

@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\bin\Debug\net7.0\MultiplicationTableExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\bin\Debug\net7.0\MultiplicationTableExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\bin\Debug\net7.0\MultiplicationTableExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\bin\Debug\net7.0\MultiplicationTableExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\bin\Debug\net7.0\MultiplicationTableExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\obj\Debug\net7.0\MultiplicationTableExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\obj\Debug\net7.0\MultiplicationTableExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\obj\Debug\net7.0\MultiplicationTableExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\obj\Debug\net7.0\MultiplicationTableExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\obj\Debug\net7.0\MultiplicationTableExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\obj\Debug\net7.0\MultiplicationTableExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\obj\Debug\net7.0\refint\MultiplicationTableExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\obj\Debug\net7.0\MultiplicationTableExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\obj\Debug\net7.0\MultiplicationTableExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\MultiplicationTableExercise\obj\Debug\net7.0\ref\MultiplicationTableExercise.dll

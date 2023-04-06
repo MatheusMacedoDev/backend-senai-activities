@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\bin\Debug\net7.0\gradeLoopExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\bin\Debug\net7.0\gradeLoopExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\bin\Debug\net7.0\gradeLoopExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\bin\Debug\net7.0\gradeLoopExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\bin\Debug\net7.0\gradeLoopExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\obj\Debug\net7.0\gradeLoopExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\obj\Debug\net7.0\gradeLoopExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\obj\Debug\net7.0\gradeLoopExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\obj\Debug\net7.0\gradeLoopExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\obj\Debug\net7.0\gradeLoopExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\obj\Debug\net7.0\gradeLoopExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\obj\Debug\net7.0\refint\gradeLoopExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\obj\Debug\net7.0\gradeLoopExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\obj\Debug\net7.0\gradeLoopExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\gradeLoopExercise\obj\Debug\net7.0\ref\gradeLoopExercise.dll
