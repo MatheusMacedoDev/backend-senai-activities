@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\bin\Debug\net6.0\AgeInterviewExercise.exe
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\bin\Debug\net6.0\AgeInterviewExercise.deps.json
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\bin\Debug\net6.0\AgeInterviewExercise.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\bin\Debug\net6.0\AgeInterviewExercise.dll
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\bin\Debug\net6.0\AgeInterviewExercise.pdb
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\obj\Debug\net6.0\AgeInterviewExercise.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\obj\Debug\net6.0\AgeInterviewExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\obj\Debug\net6.0\AgeInterviewExercise.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\obj\Debug\net6.0\AgeInterviewExercise.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\obj\Debug\net6.0\AgeInterviewExercise.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\obj\Debug\net6.0\AgeInterviewExercise.dll
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\obj\Debug\net6.0\refint\AgeInterviewExercise.dll
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\obj\Debug\net6.0\AgeInterviewExercise.pdb
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\obj\Debug\net6.0\AgeInterviewExercise.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\AgeInterviewExercise\obj\Debug\net6.0\ref\AgeInterviewExercise.dll

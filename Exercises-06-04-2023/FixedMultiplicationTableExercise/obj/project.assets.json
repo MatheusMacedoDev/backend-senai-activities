@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\SENAI Studies\\backend-senai-activities\\Exercises-06-04-2023\\AgeInterviewExercise\\AgeInterviewExercise.csproj",
-      "projectName": "AgeInterviewExercise",
-      "projectPath": "C:\\Users\\Matheus\\Desktop\\SENAI Studies\\backend-senai-activities\\Exercises-06-04-2023\\AgeInterviewExercise\\AgeInterviewExercise.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\SENAI Studies\\backend-senai-activities\\Exercises-06-04-2023\\FixedMultiplicationTableExercise\\FixedMultiplicationTableExercise.csproj",
+      "projectName": "FixedMultiplicationTableExercise",
+      "projectPath": "C:\\Users\\Matheus\\Desktop\\SENAI Studies\\backend-senai-activities\\Exercises-06-04-2023\\FixedMultiplicationTableExercise\\FixedMultiplicationTableExercise.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus\\Desktop\\SENAI Studies\\backend-senai-activities\\Exercises-06-04-2023\\AgeInterviewExercise\\obj\\",
+      "outputPath": "C:\\Users\\Matheus\\Desktop\\SENAI Studies\\backend-senai-activities\\Exercises-06-04-2023\\FixedMultiplicationTableExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"

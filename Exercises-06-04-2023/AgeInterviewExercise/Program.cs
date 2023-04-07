@@ -8,9 +8,11 @@ int menQty = 0,
 	womanQty = 0;
 
 decimal menAgeAvarage = 0,
-		womanAgeAvarage = 0;
+		womanAgeAvarage = 0,
+		menTotalAge = 0,
+		womanTotalAge = 0;
 		
-for (int i = 1; i <= 2; i++) 
+for (int i = 1; i <= 10; i++) 
 {
 	Console.WriteLine($"Interview #{i}");
 	
@@ -23,14 +25,11 @@ for (int i = 1; i <= 2; i++)
 	Console.Write($"Type the sex (M/F): ");
 	char sex = char.Parse(Console.ReadLine().ToLower());
 	
-	decimal menTotalAge = 0,
-			womanTotalAge = 0;
-	
 	if (sex == 'm') 
 	{
 		menQty++;
 		menTotalAge += age;
-		menAgeAvarage = Math.Round(menTotalAge / (decimal) menQty);
+		menAgeAvarage = Math.Round(menTotalAge / (decimal) menQty);	
 	} 
 	else 
 	{
