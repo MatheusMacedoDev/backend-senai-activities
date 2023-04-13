@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\bin\Debug\net6.0\FixedMultiplicationTableExercise.exe
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\bin\Debug\net6.0\FixedMultiplicationTableExercise.deps.json
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\bin\Debug\net6.0\FixedMultiplicationTableExercise.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\bin\Debug\net6.0\FixedMultiplicationTableExercise.dll
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\bin\Debug\net6.0\FixedMultiplicationTableExercise.pdb
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\obj\Debug\net6.0\FixedMultiplicationTableExercise.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\obj\Debug\net6.0\FixedMultiplicationTableExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\obj\Debug\net6.0\FixedMultiplicationTableExercise.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\obj\Debug\net6.0\FixedMultiplicationTableExercise.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\obj\Debug\net6.0\FixedMultiplicationTableExercise.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\obj\Debug\net6.0\FixedMultiplicationTableExercise.dll
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\obj\Debug\net6.0\refint\FixedMultiplicationTableExercise.dll
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\obj\Debug\net6.0\FixedMultiplicationTableExercise.pdb
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\obj\Debug\net6.0\FixedMultiplicationTableExercise.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\FixedMultiplicationTableExercise\obj\Debug\net6.0\ref\FixedMultiplicationTableExercise.dll

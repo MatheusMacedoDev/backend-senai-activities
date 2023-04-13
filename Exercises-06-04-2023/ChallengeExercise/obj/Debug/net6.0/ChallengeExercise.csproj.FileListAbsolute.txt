@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\bin\Debug\net6.0\ChallengeExercise.exe
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\bin\Debug\net6.0\ChallengeExercise.deps.json
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\bin\Debug\net6.0\ChallengeExercise.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\bin\Debug\net6.0\ChallengeExercise.dll
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\bin\Debug\net6.0\ChallengeExercise.pdb
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\obj\Debug\net6.0\ChallengeExercise.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\obj\Debug\net6.0\ChallengeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\obj\Debug\net6.0\ChallengeExercise.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\obj\Debug\net6.0\ChallengeExercise.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\obj\Debug\net6.0\ChallengeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\obj\Debug\net6.0\ChallengeExercise.dll
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\obj\Debug\net6.0\refint\ChallengeExercise.dll
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\obj\Debug\net6.0\ChallengeExercise.pdb
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\obj\Debug\net6.0\ChallengeExercise.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\SENAI Studies\backend-senai-activities\Exercises-06-04-2023\ChallengeExercise\obj\Debug\net6.0\ref\ChallengeExercise.dll
