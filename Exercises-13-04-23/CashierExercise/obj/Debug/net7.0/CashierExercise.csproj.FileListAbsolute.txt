@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\bin\Debug\net7.0\CashierExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\bin\Debug\net7.0\CashierExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\bin\Debug\net7.0\CashierExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\bin\Debug\net7.0\CashierExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\bin\Debug\net7.0\CashierExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\obj\Debug\net7.0\CashierExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\obj\Debug\net7.0\CashierExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\obj\Debug\net7.0\CashierExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\obj\Debug\net7.0\CashierExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\obj\Debug\net7.0\CashierExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\obj\Debug\net7.0\CashierExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\obj\Debug\net7.0\refint\CashierExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\obj\Debug\net7.0\CashierExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\obj\Debug\net7.0\CashierExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\CashierExercise\obj\Debug\net7.0\ref\CashierExercise.dll

@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\bin\Debug\net7.0\AgeExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\bin\Debug\net7.0\AgeExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\bin\Debug\net7.0\AgeExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\bin\Debug\net7.0\AgeExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\bin\Debug\net7.0\AgeExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\obj\Debug\net7.0\AgeExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\obj\Debug\net7.0\AgeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\obj\Debug\net7.0\AgeExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\obj\Debug\net7.0\AgeExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\obj\Debug\net7.0\AgeExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\obj\Debug\net7.0\AgeExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\obj\Debug\net7.0\refint\AgeExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\obj\Debug\net7.0\AgeExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\obj\Debug\net7.0\AgeExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\AgeExercise\obj\Debug\net7.0\ref\AgeExercise.dll

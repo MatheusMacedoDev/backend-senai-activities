@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\bin\Debug\net7.0\LoadingExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\bin\Debug\net7.0\LoadingExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\bin\Debug\net7.0\LoadingExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\bin\Debug\net7.0\LoadingExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\bin\Debug\net7.0\LoadingExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\obj\Debug\net7.0\LoadingExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\obj\Debug\net7.0\LoadingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\obj\Debug\net7.0\LoadingExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\obj\Debug\net7.0\LoadingExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\obj\Debug\net7.0\LoadingExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\obj\Debug\net7.0\LoadingExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\obj\Debug\net7.0\refint\LoadingExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\obj\Debug\net7.0\LoadingExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\obj\Debug\net7.0\LoadingExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\LoadingExercise\obj\Debug\net7.0\ref\LoadingExercise.dll

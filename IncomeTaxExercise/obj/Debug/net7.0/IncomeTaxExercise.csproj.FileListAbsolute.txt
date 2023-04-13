@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\bin\Debug\net7.0\IncomeTaxExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\bin\Debug\net7.0\IncomeTaxExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\bin\Debug\net7.0\IncomeTaxExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\bin\Debug\net7.0\IncomeTaxExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\bin\Debug\net7.0\IncomeTaxExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\obj\Debug\net7.0\IncomeTaxExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\obj\Debug\net7.0\IncomeTaxExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\obj\Debug\net7.0\IncomeTaxExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\obj\Debug\net7.0\IncomeTaxExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\obj\Debug\net7.0\IncomeTaxExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\obj\Debug\net7.0\IncomeTaxExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\obj\Debug\net7.0\refint\IncomeTaxExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\obj\Debug\net7.0\IncomeTaxExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\obj\Debug\net7.0\IncomeTaxExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\IncomeTaxExercise\obj\Debug\net7.0\ref\IncomeTaxExercise.dll

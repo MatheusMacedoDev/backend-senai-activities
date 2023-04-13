@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\bin\Debug\net7.0\GasStationExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\bin\Debug\net7.0\GasStationExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\bin\Debug\net7.0\GasStationExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\bin\Debug\net7.0\GasStationExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\bin\Debug\net7.0\GasStationExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\obj\Debug\net7.0\GasStationExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\obj\Debug\net7.0\GasStationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\obj\Debug\net7.0\GasStationExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\obj\Debug\net7.0\GasStationExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\obj\Debug\net7.0\GasStationExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\obj\Debug\net7.0\GasStationExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\obj\Debug\net7.0\refint\GasStationExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\obj\Debug\net7.0\GasStationExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\obj\Debug\net7.0\GasStationExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\GasStationExercise\obj\Debug\net7.0\ref\GasStationExercise.dll

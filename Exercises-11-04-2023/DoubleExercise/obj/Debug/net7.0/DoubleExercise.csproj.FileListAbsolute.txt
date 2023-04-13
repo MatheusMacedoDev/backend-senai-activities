@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\bin\Debug\net7.0\DoubleExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\bin\Debug\net7.0\DoubleExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\bin\Debug\net7.0\DoubleExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\bin\Debug\net7.0\DoubleExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\bin\Debug\net7.0\DoubleExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\obj\Debug\net7.0\DoubleExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\obj\Debug\net7.0\DoubleExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\obj\Debug\net7.0\DoubleExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\obj\Debug\net7.0\DoubleExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\obj\Debug\net7.0\DoubleExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\obj\Debug\net7.0\DoubleExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\obj\Debug\net7.0\refint\DoubleExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\obj\Debug\net7.0\DoubleExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\obj\Debug\net7.0\DoubleExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-11-04-2023\DoubleExercise\obj\Debug\net7.0\ref\DoubleExercise.dll
