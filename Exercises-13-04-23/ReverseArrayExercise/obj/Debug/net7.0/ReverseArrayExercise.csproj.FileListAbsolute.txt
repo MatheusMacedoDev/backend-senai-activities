@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\bin\Debug\net7.0\ReverseArrayExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\bin\Debug\net7.0\ReverseArrayExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\bin\Debug\net7.0\ReverseArrayExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\bin\Debug\net7.0\ReverseArrayExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\bin\Debug\net7.0\ReverseArrayExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\obj\Debug\net7.0\ReverseArrayExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\obj\Debug\net7.0\ReverseArrayExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\obj\Debug\net7.0\ReverseArrayExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\obj\Debug\net7.0\ReverseArrayExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\obj\Debug\net7.0\ReverseArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\obj\Debug\net7.0\ReverseArrayExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\obj\Debug\net7.0\refint\ReverseArrayExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\obj\Debug\net7.0\ReverseArrayExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\obj\Debug\net7.0\ReverseArrayExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\ReverseArrayExercise\obj\Debug\net7.0\ref\ReverseArrayExercise.dll

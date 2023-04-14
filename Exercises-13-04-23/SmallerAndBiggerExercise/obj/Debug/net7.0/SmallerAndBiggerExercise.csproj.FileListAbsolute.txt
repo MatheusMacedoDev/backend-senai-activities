@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\bin\Debug\net7.0\SmallerAndBiggerExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\bin\Debug\net7.0\SmallerAndBiggerExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\bin\Debug\net7.0\SmallerAndBiggerExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\bin\Debug\net7.0\SmallerAndBiggerExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\bin\Debug\net7.0\SmallerAndBiggerExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\obj\Debug\net7.0\SmallerAndBiggerExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\obj\Debug\net7.0\SmallerAndBiggerExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\obj\Debug\net7.0\SmallerAndBiggerExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\obj\Debug\net7.0\SmallerAndBiggerExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\obj\Debug\net7.0\SmallerAndBiggerExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\obj\Debug\net7.0\SmallerAndBiggerExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\obj\Debug\net7.0\refint\SmallerAndBiggerExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\obj\Debug\net7.0\SmallerAndBiggerExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\obj\Debug\net7.0\SmallerAndBiggerExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\SmallerAndBiggerExercise\obj\Debug\net7.0\ref\SmallerAndBiggerExercise.dll

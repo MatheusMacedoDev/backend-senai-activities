@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\bin\Debug\net7.0\NameSearchExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\bin\Debug\net7.0\NameSearchExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\bin\Debug\net7.0\NameSearchExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\bin\Debug\net7.0\NameSearchExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\bin\Debug\net7.0\NameSearchExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\obj\Debug\net7.0\NameSearchExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\obj\Debug\net7.0\NameSearchExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\obj\Debug\net7.0\NameSearchExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\obj\Debug\net7.0\NameSearchExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\obj\Debug\net7.0\NameSearchExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\obj\Debug\net7.0\NameSearchExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\obj\Debug\net7.0\refint\NameSearchExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\obj\Debug\net7.0\NameSearchExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\obj\Debug\net7.0\NameSearchExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\NameSearchExercise\obj\Debug\net7.0\ref\NameSearchExercise.dll

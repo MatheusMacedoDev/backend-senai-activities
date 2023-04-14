@@ -6,6 +6,8 @@ desconto e o total a pagar (total a pagar = total - desconto), sabendo-se que:
 - Se quantidade &gt; 10 o desconto será de 5%
 Dica: utilize if / else if / else*/
 
+using System.Globalization;
+
 string productName;
 decimal productUnitaryPrice;
 int productQuantity;
@@ -19,7 +21,7 @@ productUnitaryPrice = decimal.Parse(Console.ReadLine());
 Console.Write($"Type the quantity of product: ");
 productQuantity = int.Parse(Console.ReadLine());
 
-Console.WriteLine($"Total price: {calculateTotalPrice(productUnitaryPrice, productQuantity)}");
+Console.WriteLine($"Total price: {calculateTotalPrice(productUnitaryPrice, productQuantity).ToString("C", new CultureInfo("pt-BR"))}");
 
 
 static decimal calculateDiscount(decimal totalPrice, int quantity) 

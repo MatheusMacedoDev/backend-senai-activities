@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\bin\Debug\net7.0\TableQuestionExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\bin\Debug\net7.0\TableQuestionExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\bin\Debug\net7.0\TableQuestionExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\bin\Debug\net7.0\TableQuestionExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\bin\Debug\net7.0\TableQuestionExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\obj\Debug\net7.0\TableQuestionExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\obj\Debug\net7.0\TableQuestionExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\obj\Debug\net7.0\TableQuestionExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\obj\Debug\net7.0\TableQuestionExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\obj\Debug\net7.0\TableQuestionExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\obj\Debug\net7.0\TableQuestionExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\obj\Debug\net7.0\refint\TableQuestionExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\obj\Debug\net7.0\TableQuestionExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\obj\Debug\net7.0\TableQuestionExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-13-04-23\TableQuestionExercise\obj\Debug\net7.0\ref\TableQuestionExercise.dll
