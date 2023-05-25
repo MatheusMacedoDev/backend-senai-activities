@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\bin\Debug\net7.0\CalculatorOOP.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\bin\Debug\net7.0\CalculatorOOP.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\bin\Debug\net7.0\CalculatorOOP.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\bin\Debug\net7.0\CalculatorOOP.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\bin\Debug\net7.0\CalculatorOOP.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\obj\Debug\net7.0\CalculatorOOP.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\obj\Debug\net7.0\CalculatorOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\obj\Debug\net7.0\CalculatorOOP.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\obj\Debug\net7.0\CalculatorOOP.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\obj\Debug\net7.0\CalculatorOOP.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\obj\Debug\net7.0\CalculatorOOP.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\obj\Debug\net7.0\refint\CalculatorOOP.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\obj\Debug\net7.0\CalculatorOOP.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\obj\Debug\net7.0\CalculatorOOP.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\CalculatorOOP\obj\Debug\net7.0\ref\CalculatorOOP.dll

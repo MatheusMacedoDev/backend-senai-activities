@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\bin\Debug\net7.0\CoffeeExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\bin\Debug\net7.0\CoffeeExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\bin\Debug\net7.0\CoffeeExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\bin\Debug\net7.0\CoffeeExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\bin\Debug\net7.0\CoffeeExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\obj\Debug\net7.0\CoffeeExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\obj\Debug\net7.0\CoffeeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\obj\Debug\net7.0\CoffeeExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\obj\Debug\net7.0\CoffeeExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\obj\Debug\net7.0\CoffeeExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\obj\Debug\net7.0\CoffeeExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\obj\Debug\net7.0\refint\CoffeeExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\obj\Debug\net7.0\CoffeeExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\obj\Debug\net7.0\CoffeeExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\CoffeeExercise\obj\Debug\net7.0\ref\CoffeeExercise.dll

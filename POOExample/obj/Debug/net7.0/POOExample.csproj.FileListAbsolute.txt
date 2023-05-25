@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\bin\Debug\net7.0\POOExample.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\bin\Debug\net7.0\POOExample.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\bin\Debug\net7.0\POOExample.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\bin\Debug\net7.0\POOExample.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\bin\Debug\net7.0\POOExample.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\obj\Debug\net7.0\POOExample.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\obj\Debug\net7.0\POOExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\obj\Debug\net7.0\POOExample.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\obj\Debug\net7.0\POOExample.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\obj\Debug\net7.0\POOExample.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\obj\Debug\net7.0\POOExample.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\obj\Debug\net7.0\refint\POOExample.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\obj\Debug\net7.0\POOExample.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\obj\Debug\net7.0\POOExample.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\POOExample\obj\Debug\net7.0\ref\POOExample.dll

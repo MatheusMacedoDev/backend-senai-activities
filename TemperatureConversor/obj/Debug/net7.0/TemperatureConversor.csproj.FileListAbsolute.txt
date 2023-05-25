@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\bin\Debug\net7.0\TemperatureConversor.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\bin\Debug\net7.0\TemperatureConversor.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\bin\Debug\net7.0\TemperatureConversor.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\bin\Debug\net7.0\TemperatureConversor.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\bin\Debug\net7.0\TemperatureConversor.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\obj\Debug\net7.0\TemperatureConversor.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\obj\Debug\net7.0\TemperatureConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\obj\Debug\net7.0\TemperatureConversor.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\obj\Debug\net7.0\TemperatureConversor.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\obj\Debug\net7.0\TemperatureConversor.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\obj\Debug\net7.0\TemperatureConversor.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\obj\Debug\net7.0\refint\TemperatureConversor.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\obj\Debug\net7.0\TemperatureConversor.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\obj\Debug\net7.0\TemperatureConversor.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\TemperatureConversor\obj\Debug\net7.0\ref\TemperatureConversor.dll

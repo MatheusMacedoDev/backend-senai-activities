@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\bin\Debug\net7.0\CurrencyConversorExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\bin\Debug\net7.0\CurrencyConversorExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\bin\Debug\net7.0\CurrencyConversorExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\bin\Debug\net7.0\CurrencyConversorExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\bin\Debug\net7.0\CurrencyConversorExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\obj\Debug\net7.0\CurrencyConversorExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\obj\Debug\net7.0\CurrencyConversorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\obj\Debug\net7.0\CurrencyConversorExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\obj\Debug\net7.0\CurrencyConversorExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\obj\Debug\net7.0\CurrencyConversorExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\obj\Debug\net7.0\CurrencyConversorExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\obj\Debug\net7.0\refint\CurrencyConversorExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\obj\Debug\net7.0\CurrencyConversorExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\obj\Debug\net7.0\CurrencyConversorExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\CurrencyConversorExercise\obj\Debug\net7.0\ref\CurrencyConversorExercise.dll

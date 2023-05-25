@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\bin\Debug\net7.0\ElevatorExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\bin\Debug\net7.0\ElevatorExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\bin\Debug\net7.0\ElevatorExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\bin\Debug\net7.0\ElevatorExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\bin\Debug\net7.0\ElevatorExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\obj\Debug\net7.0\ElevatorExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\obj\Debug\net7.0\ElevatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\obj\Debug\net7.0\ElevatorExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\obj\Debug\net7.0\ElevatorExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\obj\Debug\net7.0\ElevatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\obj\Debug\net7.0\ElevatorExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\obj\Debug\net7.0\refint\ElevatorExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\obj\Debug\net7.0\ElevatorExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\obj\Debug\net7.0\ElevatorExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercise-05-05-2023\ElevatorExercise\obj\Debug\net7.0\ref\ElevatorExercise.dll

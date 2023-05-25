@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\bin\Debug\net7.0\ProductExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\bin\Debug\net7.0\ProductExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\bin\Debug\net7.0\ProductExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\bin\Debug\net7.0\ProductExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\bin\Debug\net7.0\ProductExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\obj\Debug\net7.0\ProductExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\obj\Debug\net7.0\ProductExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\obj\Debug\net7.0\ProductExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\obj\Debug\net7.0\ProductExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\obj\Debug\net7.0\ProductExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\obj\Debug\net7.0\ProductExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\obj\Debug\net7.0\refint\ProductExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\obj\Debug\net7.0\ProductExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\obj\Debug\net7.0\ProductExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\ProductExercise\obj\Debug\net7.0\ref\ProductExercise.dll

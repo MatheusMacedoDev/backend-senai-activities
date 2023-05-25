@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\bin\Debug\net7.0\CarExercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\bin\Debug\net7.0\CarExercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\bin\Debug\net7.0\CarExercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\bin\Debug\net7.0\CarExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\bin\Debug\net7.0\CarExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\obj\Debug\net7.0\CarExercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\obj\Debug\net7.0\CarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\obj\Debug\net7.0\CarExercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\obj\Debug\net7.0\CarExercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\obj\Debug\net7.0\CarExercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\obj\Debug\net7.0\CarExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\obj\Debug\net7.0\refint\CarExercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\obj\Debug\net7.0\CarExercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\obj\Debug\net7.0\CarExercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\Exercises-2023-05-11\CarExercise\obj\Debug\net7.0\ref\CarExercise.dll
